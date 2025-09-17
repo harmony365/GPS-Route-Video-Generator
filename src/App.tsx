@@ -37,6 +37,26 @@ const App: React.FC = () => {
     localStorage.setItem('theme', theme);
   }, [theme]);
 
+  // Load default route on startup
+  useEffect(() => {
+    const loadDefaultRoute = async () => {
+      try {
+        const response = await fetch('/guadix-monumental.gpx');
+        if (response.ok) {
+          const gpxContent = await response.text();
+          const defaultCoords = parseGpx(gpxContent);
+          setRouteData(defaultCoords);
+          setFileName('guadix-monumental.gpx (Ruta de Demostración)');
+        }
+      } catch (err) {
+        console.log('No se pudo cargar la ruta por defecto:', err);
+        // No mostrar error al usuario, es opcional
+      }
+    };
+    
+    loadDefaultRoute();
+  }, []);
+
   const toggleTheme = () => {
       setTheme(prevTheme => prevTheme === 'light' ? 'dark' : 'light');
   };
