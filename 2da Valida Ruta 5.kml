@@ -1,0 +1,1793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2da Valida Ruta 5</name>
+	<open>1</open>
+	<StyleMap id="msn_realestate">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_realestate</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_realestate</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_campground0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style14">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="path1Style02">
+		<LineStyle>
+			<color>ff12ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_blue-pushpin">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style22">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-blank0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="style29">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style19">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style23">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style17">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_campground0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_police">
+		<IconStyle>
+			<color>ff0a01ff</color>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/police.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="stylemap_id101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style15">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff650c</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_grn-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl20">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style26">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station0">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff650c</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style32">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="path1Style01">
+		<LineStyle>
+			<color>ff12ff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="style30">
+		<IconStyle>
+			<color>ff2dff28</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin410">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_campground01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style2">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<color>ff050aff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<color>ff050aff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station0">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/horsebackriding.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style16">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style21">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style31">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style27">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin0">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style3">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style10">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_police">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_police</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_police</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_realestate">
+		<IconStyle>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="path1Style000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path1Style02</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path1Style01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style24">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style25">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_campground0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style28">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-blank0">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_campground">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style9">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+			</Icon>
+			<hotSpot x="54" y="42" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style0">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style7">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style5">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_campground1">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_realestate">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/realestate.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_campground">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_police">
+		<IconStyle>
+			<color>ff0a01ff</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/police.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_campground10">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style8">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style13">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_campground">
+		<IconStyle>
+			<scale>0.945455</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffeff2ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="style4">
+		<IconStyle>
+			<color>ff2dff28</color>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style12">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style1">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints 2</name>
+		<Placemark>
+			<name>0242</name>
+			<description>08-NOV-14 10:13</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2618716396,10.2774156723,602.1469726563</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0247</name>
+			<description>08-NOV-14 13:52</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.22781806250001,10.2860447578,629.5444335938</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0248</name>
+			<description>08-NOV-14 14:29</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2127968539,10.2998461481,656.9416503906</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_IZQ_5</name>
+			<description>08-NOV-14 15:21</description>
+			<styleUrl>#stylemap_id10</styleUrl>
+			<Point>
+				<coordinates>-67.2018303908,10.3448822815,1549.9995117188</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_DER4</name>
+			<description>08-NOV-14 16:19</description>
+			<styleUrl>#stylemap_id9</styleUrl>
+			<Point>
+				<coordinates>-67.19669060779999,10.3515795898,1657.1857910156</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALIDA_R1</name>
+			<description>14-NOV-14 11:36</description>
+			<styleUrl>#stylemap_id4</styleUrl>
+			<Point>
+				<coordinates>-67.2571720742,10.2754330169,587.4868164063</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0258</name>
+			<description>14-NOV-14 11:36</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.25604537869999,10.2765620593,586.7658691406</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0259</name>
+			<description>14-NOV-14 11:38</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2499824967,10.2798900101,591.8127441406</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PASO_1</name>
+			<description>14-NOV-14 11:51</description>
+			<styleUrl>#stylemap_id51</styleUrl>
+			<Point>
+				<coordinates>-67.24544523453885,10.27968451364787,595.4177246094</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0261</name>
+			<description>14-NOV-14 11:53</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.25269781430001,10.2801715583,587.2465820313</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CODO_PELIGRO</name>
+			<description>14-NOV-14 13:30</description>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<coordinates>-67.21698998470001,10.2821703907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0264</name>
+			<description>14-NOV-14 15:43</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2212273721,10.2915099263,631.9477539063</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FINCA EL TUY</name>
+			<description>14-NOV-14 16:21</description>
+			<styleUrl>#stylemap_id3</styleUrl>
+			<Point>
+				<coordinates>-67.2258091718,10.3478253353,858.5766601562999</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_DER_1</name>
+			<description>14-NOV-14 16:26</description>
+			<styleUrl>#stylemap_id6</styleUrl>
+			<Point>
+				<coordinates>-67.2239648178,10.3519984335,1073.669921875</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_IZQ2</name>
+			<description>14-NOV-14 16:29</description>
+			<styleUrl>#stylemap_id7</styleUrl>
+			<Point>
+				<coordinates>-67.22126592879999,10.3559562843,1191.9111328125</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R4_CR_IZQ</name>
+			<description>15-NOV-14 10:01</description>
+			<styleUrl>#stylemap_id110</styleUrl>
+			<Point>
+				<coordinates>-67.2578425426,10.3073725943,698.7587890625</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>0270</name>
+			<description>15-NOV-14 10:53</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2484130692,10.3247969784,1047.7145996094</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTENA</name>
+			<description>08-NOV-14 12:55</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2361234389,10.2742471453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_DER_3</name>
+			<description>08-NOV-14 16:17</description>
+			<styleUrl>#stylemap_id8</styleUrl>
+			<Point>
+				<coordinates>-67.204656601,10.3626394272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GN SAN PED</name>
+			<description>Latitude: 10.3448909987 Longitude : -67.1326899994</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.1326899994,10.3448909987,-0.1143798828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HACIENDA T</name>
+			<description>Latitude: 10.2874160372 Longitude : -67.2256619856</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2256619856,10.2874160372,-0.1143798828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INT2</name>
+			<description>Latitude: 10.3650819976 Longitude : -67.2894360311</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2894360311,10.3650819976,-0.1143798828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LA CRUZ</name>
+			<description>Latitude: 10.2904959675 Longitude : -67.2105869651</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.21058696510001,10.2904959675,-0.1143798828</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PTE</name>
+			<description>08-NOV-14 12:47</description>
+			<Style>
+				<IconStyle>
+					<scale>0.9</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Point>
+				<coordinates>-67.2376010008,10.2825749014,612.9616699219</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R1_CR_DER_1</name>
+			<LookAt>
+				<longitude>-67.24138852703088</longitude>
+				<latitude>10.28233187663714</latitude>
+				<altitude>0</altitude>
+				<heading>10.67316310643036</heading>
+				<tilt>20.31112652136919</tilt>
+				<range>219.6518571682802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id50</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.24138852703086,10.28233187663714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R1_CR_DER_2</name>
+			<LookAt>
+				<longitude>-67.23791553738757</longitude>
+				<latitude>10.28283419110384</latitude>
+				<altitude>0</altitude>
+				<heading>10.67378298206829</heading>
+				<tilt>20.31284712474293</tilt>
+				<range>578.7434023546763</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.23796169869746,10.28343372323216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R2_CR_DER_6</name>
+			<LookAt>
+				<longitude>-67.19577263757272</longitude>
+				<latitude>10.3256356362335</latitude>
+				<altitude>0</altitude>
+				<heading>24.42113483982203</heading>
+				<tilt>60.00511103655324</tilt>
+				<range>429.5447932546518</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id100</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.19533918999665,10.3252289943708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R4_CR_IZQ_3</name>
+			<LookAt>
+				<longitude>-67.2607458734778</longitude>
+				<latitude>10.2776325208393</latitude>
+				<altitude>0</altitude>
+				<heading>8.174020534323875</heading>
+				<tilt>22.10089036834655</tilt>
+				<range>398.6510610456466</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id113</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26090290398361,10.27714116942563,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Tracks</name>
+		<open>1</open>
+		<Placemark>
+			<name>Ruta_5</name>
+			<LookAt>
+				<longitude>-67.25111404148404</longitude>
+				<latitude>10.30862747622269</latitude>
+				<altitude>807.726626060762</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<range>12732.75012975973</range>
+			</LookAt>
+			<styleUrl>#path1Style000</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-67.25693565449224,10.27550607784537,590.8674316406 -67.25657077556541,10.27575910619482,590.8674316406 -67.2555558504362,10.27765199793475,590.8674316406 -67.25445379978899,10.27918428217579,590.8674316406 -67.25204406730933,10.28042323124432,590.8674316406 -67.24786724297105,10.27947072818116,590.8674316406 -67.24562084754324,10.27936844035735,590.8674316406 -67.24542291963505,10.27964744290805,590.8674316406 -67.24115852554594,10.28104042063603,590.8674316406 -67.24158174205685,10.28328446439316,590.8674316406 -67.24146685859454,10.28365123588479,590.8674316406 -67.24077213928143,10.28435909821027,590.8674316406 -67.24019240946809,10.28520732782825,590.8674316406 -67.24095432775656,10.28514403569173,590.8674316406 -67.24136125702772,10.28424110338038,590.8674316406 -67.24180124477937,10.28404080720873,590.8674316406 -67.24223924115302,10.28404164607754,590.8674316406 -67.24244692291663,10.283766402605,590.8674316406 -67.24278691066672,10.28359102836397,590.8674316406 -67.24304230785548,10.283206599016,590.8674316406 -67.24318745810305,10.28239846071357,590.8674316406 -67.24376345163893,10.281475211523,590.8674316406 -67.24450893430043,10.28113873455821,590.8674316406 -67.24542189818114,10.28071121669536,590.8674316406 -67.24579198559458,10.28048522172837,590.8674316406 -67.24683889665899,10.28051998840314,590.8674316406 -67.2471827834423,10.2803876040456,590.8674316406 -67.24798133902974,10.28059056892932,590.8674316406 -67.2480932424956,10.28069067436858,590.8674316406 -67.24811677944281,10.28098513534551,590.8674316406 -67.24801623802321,10.28141734043723,590.8674316406 -67.24807670368652,10.28153175662336,590.8674316406 -67.24828781498222,10.28151065829085,590.8674316406 -67.24848985836161,10.28139510530309,590.8674316406 -67.24873593778916,10.28137433637275,590.8674316406 -67.2492488804125,10.28138563097997,590.8674316406 -67.24934953944194,10.28146706987441,590.8674316406 -67.24947952211153,10.28170055899775,590.8674316406 -67.24972921912408,10.28180921780858,590.8674316406 -67.2498859075214,10.28210958455771,590.8674316406 -67.24984229826049,10.28244713588995,590.8674316406 -67.24991966394437,10.28245882845609,590.8674316406 -67.25050622898719,10.28219741674422,590.8674316406 -67.25085937384471,10.28220424633751,590.8674316406 -67.25097318704805,10.28231363598991,590.8674316406 -67.2509731192801,10.28268073786973,590.8674316406 -67.2510501680995,10.28276782941751,590.8674316406 -67.25141693855207,10.28264701573949,590.8674316406 -67.25198073364734,10.28276491859443,590.8674316406 -67.25245251537764,10.28263373386813,590.8674316406 -67.25297916260956,10.28269713591872,590.8674316406 -67.25366099253749,10.28259450063891,590.8674316406 -67.25427002502541,10.28238915915735,590.8674316406 -67.25444707706929,10.28196053089867,590.8674316406 -67.255391062743,10.28167655891834,590.8674316406 -67.25554992704403,10.28138302745026,590.8674316406 -67.25721702128276,10.27950750820422,590.8674316406 -67.25769381368963,10.27818754304185,590.8674316406 -67.25829279346824,10.27784040346983,590.8674316406 -67.25883999874885,10.27778646986349,590.8674316406 -67.26090458605485,10.27712889251976,590.8674316406 -67.26121688884608,10.2787485807576,590.8674316406 -67.26101686667252,10.27901410038553,590.8674316406 -67.26095481862555,10.27929185773618,590.8674316406 -67.26068907110926,10.27963136347878,605.7680664063 -67.26075182882482,10.28211009455779,605.2873535156 -67.26085674738822,10.2831990354079,620.1877441406 -67.2608765401,10.2842154913,621.6296386719 -67.2608150169,10.2849382628,623.5524902344 -67.2608314455,10.2854331303,624.0329589844 -67.2609889414,10.285764467,626.4362792969 -67.2614290752,10.286406856,634.1267089844 -67.2614998184,10.2864785213,634.607421875 -67.2617429774,10.2868003026,633.1652832031 -67.26173182949999,10.2870013844,632.2041015625 -67.26165563799999,10.2873862814,632.2041015625 -67.2617025767,10.2878409997,634.1267089844 -67.2615959588,10.2882249746,633.6459960938 -67.2614440788,10.2885732427,633.6459960938 -67.261202177,10.2892423701,636.5302734375 -67.26075500250001,10.2898954879,639.4140625 -67.2605321277,10.2902892698,639.8947753906 -67.2604193073,10.2907013241,642.7788085938 -67.2602567822,10.2915064897,643.2592773438 -67.260231385,10.2916089166,643.2592773438 -67.26021587850001,10.2919563465,644.220703125 -67.2603271063,10.2923317719,643.7399902344 -67.2602866217,10.2926416509,647.1044921875 -67.2602729592,10.292727733,648.5463867188 -67.2603861149,10.2931176592,652.3918457031 -67.260740418,10.2938421071,655.2758789063 -67.2607967444,10.2943397406,654.3146972656 -67.260985421,10.2946439199,653.833984375 -67.2610592656,10.2950180043,657.6791992188 -67.2610490397,10.2951273043,658.1599121094 -67.2609494627,10.2955412026,659.6018066406 -67.2610573377,10.2959343977,661.5244140625 -67.2611414082,10.2962495573,662.9663085938 -67.2612206172,10.2965016011,662.4855957031 -67.26135632019999,10.2966487873,662.9663085938 -67.26168313060001,10.2970595006,665.8503417969 -67.261812631,10.297493767,667.7727050781 -67.2617759183,10.2983520739,670.6569824218999 -67.26163677869999,10.2988923714,670.1762695313 -67.2615997307,10.2990552317,670.6569824218999 -67.2615321726,10.2996175736,671.6181640625 -67.2613151651,10.3001996968,673.0603027344 -67.2611637879,10.3006929718,672.0988769531 -67.26114333610001,10.3007798921,672.0988769531 -67.2610933799,10.3012663778,671.6181640625 -67.2609684896,10.3018041607,673.541015625 -67.2610480338,10.3021876328,674.5021972656 -67.2611803003,10.3022560291,674.9829101563 -67.26158455949999,10.3025819175,673.541015625 -67.26160819640001,10.3027741984,672.5795898438 -67.26203567349999,10.3034054395,673.0603027344 -67.26197985,10.3034930304,673.541015625 -67.2618044168,10.3037301544,674.9829101563 -67.2609220538,10.3038451541,675.9440917969 -67.261040993,10.3046416026,676.9055175781 -67.2608269192,10.3048971668,677.3862304688 -67.260148488,10.3057071939,679.7893066406 -67.26004748610001,10.3058277257,681.2314453125 -67.2594580706,10.3065315541,685.0769042969 -67.2593391314,10.3066734597,686.9992675781 -67.25860713980001,10.3075472731,710.5515136719 -67.2574588191,10.3070439398,710.5515136719 -67.2569486964,10.307280561,711.0322265625 -67.256595064,10.3075478598,711.0322265625 -67.25534255620001,10.3089225758,713.435546875 -67.2550630197,10.3089948278,714.8774414063 -67.25438919849999,10.3091979213,716.8002929688 -67.2540302016,10.3093061317,716.8002929688 -67.2538937442,10.309347203,717.7614746094 -67.2535000462,10.3096594289,719.2036132813 -67.2531275544,10.3101172484,720.1647949219 -67.2529315017,10.3103581443,720.6455078125 -67.2526089661,10.3105029836,721.1262207031 -67.2525852453,10.3107836097,723.048828125 -67.25252363830001,10.3108592983,724.0100097656 -67.25237896669999,10.3110370785,724.9714355469 -67.25215257150001,10.3113154415,726.8940429688 -67.2520659026,10.3114218917,732.662109375 -67.25192785260001,10.3115916252,736.0266113281 -67.2510745749,10.3115900327,738.9106445313 -67.25096678360001,10.3119195253,741.7944335938 -67.25104808810001,10.31220451,742.2751464844 -67.25111438890001,10.3125779238,742.755859375 -67.2510113753,10.3129709512,743.7170410156 -67.2509311605,10.3131808341,745.6396484375 -67.25146299230001,10.3135557566,745.1589355469 -67.2516613081,10.3138147574,745.1589355469 -67.2518159542,10.3141603433,747.0815429688 -67.2520019487,10.314373998,747.0815429688 -67.2523288429,10.3159513045,864.8432617187999 -67.251762813,10.3157611191,866.28515625 -67.2516911477,10.315574035,867.7270507812999 -67.2514222562,10.315527264,869.6499023438 -67.2511939332,10.3156292718,870.1303710938 -67.2509765066,10.3157643043,871.572265625 -67.250779951,10.3159609437,872.5336914063 -67.250916576,10.3160593472,874.4562988281 -67.25110793490001,10.3161718324,875.8981933593999 -67.2511379421,10.3162702359,876.3791503906001 -67.2511807736,10.3166801948,882.6276855468999 -67.2514447197,10.3168128803,887.9147949219 -67.2516020481,10.3169924207,889.3566894530999 -67.25158402700001,10.317018237,889.8374023438 -67.2515291255,10.3170968592,891.2792968749999 -67.25182509050001,10.3177800681,895.60546875 -67.2516629845,10.3180733509,897.0473632813 -67.2514901496,10.3182386421,897.5280761719 -67.2513106931,10.3185505327,898.0087890624999 -67.2511037439,10.3188309073,899.9313964843999 -67.25091204979999,10.3190130461,901.3732910156 -67.2501021065,10.3191409539,904.7377929687999 -67.2499840055,10.3193101007,906.1796875 -67.2497343086,10.3196677566,910.0251464843999 -67.2495218273,10.3199721035,913.3898925781 -67.2494881321,10.3200202994,913.8703613281 -67.2491830308,10.3203762788,917.2351074219 -67.24924564360001,10.3203678131,918.1962890625001 -67.2494238429,10.3203952219,918.6770019530999 -67.2495358251,10.3204124887,918.6770019530999 -67.25012457,10.320503097,918.6770019530999 -67.25024200039999,10.3205211181,918.6770019530999 -67.2503264062,10.3205559868,922.0415039063001 -67.2502569202,10.3205887601,923.0029296875 -67.2498868592,10.3207633551,926.3676757813 -67.2497405112,10.3208323382,928.2902832031 -67.24943071600001,10.3209785186,931.6547851562999 -67.2493651696,10.3210094478,933.0966796875 -67.2492586356,10.3211361822,940.7873535156 -67.2492867149,10.3211851325,941.2680664062999 -67.24937246179999,10.3213353362,945.11328125 -67.2494540177,10.3214779962,947.5166015624999 -67.2495352384,10.3216199856,949.919921875 -67.2497401759,10.3219788149,955.6877441405999 -67.2500212211,10.3221146856,960.4943847656 -67.2498250008,10.3221273422,963.3784179688 -67.2498250008,10.3221273422,963.3784179688 -67.2494599689,10.3222546633,965.3010253906 -67.24910348650001,10.3223788831,973.9528808594 -67.2487993073,10.3224849142,984.0466308594 -67.24859956650001,10.3225545678,987.4111328124999 -67.2481416631,10.3227142431,997.5051269531 -67.2479973268,10.3227645345,998.9470214844 -67.247867994,10.3228096291,999.427734375 -67.2477309499,10.322857406,1000.3891601563 -67.24748611450001,10.3229427338,1007.1184082031 -67.2475253418,10.3229975514,1008.5603027344 -67.24774017,10.3232982941,1009.041015625 -67.24796254189999,10.3235682752,1013.3669433594 -67.2481006756,10.3236406948,1016.2507324219 -67.24849521180001,10.3238473088,1020.0961914063 -67.2487185057,10.3239642363,1022.0187988281 -67.2487162426,10.324256178,1026.3447265625 -67.2486872412,10.3243257478,1027.7866210938 -67.2485625185,10.3246248979,1032.1125488281 -67.24848398010001,10.3248134907,1037.8806152344 -67.24848398010001,10.3248134907,1077.7751464844 -67.2484397236,10.3249198571,1079.2170410156 -67.2483839002,10.3250470106,1081.1398925781 -67.2481157631,10.3251542151,1087.3884277344 -67.24784980530001,10.3252605814,1096.0402832031 -67.24761645309999,10.3253539559,1101.3276367188 -67.2472071648,10.325614633,1106.6147460938 -67.2470040713,10.3257570416,1107.576171875 -67.2466638498,10.3259956744,1109.4987792969 -67.24621768110001,10.3263085708,1110.4599609375 -67.2459808923,10.3264746163,1113.8244628906 -67.2456471249,10.3264637198,1117.189453125 -67.2455973364,10.3264455311,1121.5151367188 -67.2455973364,10.3264455311,1132.5705566406 -67.2455973364,10.3264455311,1144.1062011719 -67.2455644794,10.3264334612,1144.5866699219 -67.2454935685,10.3264075611,1146.0288085938 -67.245285362,10.3263314534,1147.470703125 -67.2450778261,10.326255681,1147.470703125 -67.2448675241,10.3261788189,1151.796875 -67.2448106948,10.3261580318,1153.7194824219 -67.24472511560001,10.3260695189,1159.9677734375 -67.2446354292,10.3258936666,1160.9291992188 -67.24453182889999,10.3256904054,1158.5258789063 -67.24435606039999,10.3253455739,1153.7194824219 -67.24410024469999,10.3248440009,1155.6420898438 -67.24395649509999,10.3245619498,1160.4484863281 -67.2438782919,10.3244086448,1162.8518066406 -67.2437722608,10.324200606,1164.2939453125 -67.2436720971,10.324004218,1166.697265625 -67.2435125895,10.3236912377,1170.5424804688 -67.24338275380001,10.3234365117,1168.1391601563 -67.24330815490001,10.3232903313,1166.2165527344 -67.2431059834,10.3228936158,1167.1779785156 -67.2429545224,10.3227573261,1167.1779785156 -67.2427157219,10.3225782048,1168.1391601563 -67.24246837200001,10.3223927971,1170.0617675781 -67.24226100369999,10.322237229,1172.9458007813 -67.2420081217,10.3220475465,1180.6364746094 -67.24184735679999,10.3219270147,1184.0009765625 -67.2415734362,10.3217214905,1188.8076171875 -67.24155407400001,10.3217069898,1190.7299804688 -67.2415423393,10.3216981888,1195.0559082031 -67.24152716810001,10.3217222448,1196.4982910156 -67.24141191690001,10.3219047189,1199.8627929688 -67.2412861884,10.322156176,1202.7465820313 -67.2411600407,10.322303446,1205.1499023438 -67.2411829233,10.3227042686,1206.591796875 -67.24124738019999,10.3227833938,1213.8017578125 -67.2414021939,10.3229731601,1221.9729003906 -67.24153362209999,10.3231343441,1226.298828125 -67.2416845802,10.3233195003,1233.5087890625 -67.2418033518,10.3234651778,1235.912109375 -67.2420050204,10.3237125278,1237.8347167969 -67.2421736643,10.3240147792,1246.0061035156 -67.242183974,10.3241386637,1248.4091796875 -67.24220048639999,10.3243368957,1254.1772460938 -67.2422280628,10.3246684838,1264.2709960938 -67.24226293149999,10.3250864893,1275.3259277344 -67.2422450781,10.3253119625,1280.6135253906 -67.242166372,10.3256528545,1283.0166015625 -67.2420748416,10.3260492347,1285.419921875 -67.2420183476,10.3262940701,1289.7458496094 -67.2421032563,10.3265974112,1291.1877441406 -67.2422178369,10.3269667178,1295.5139160156 -67.24232311359999,10.3273061011,1305.6076660156 -67.2423407994,10.327363098,1306.0881347656 -67.24244222039999,10.3276899923,1314.2595214844 -67.2425050847,10.3278924152,1317.1435546875 -67.2425908316,10.3282255121,1322.9113769531 -67.2425694577,10.3285824973,1326.7568359375 -67.24254137840001,10.329050459,1326.2761230469 -67.24258077330001,10.3293148242,1328.6794433594 -67.24271111189999,10.3294762596,1330.1213378906 -67.2428220045,10.3296133876,1331.5632324219 -67.243057033,10.3299044911,1335.8891601563 -67.2433742881,10.3302972671,1336.8503417969 -67.243406726,10.3303374164,1337.3310546875 -67.2434560116,10.3304345626,1339.2536621094 -67.243529018,10.3306291904,1344.060546875 -67.2435829137,10.3307731077,1346.9443359375 -67.24359531890001,10.3310425021,1354.154296875 -67.243526252,10.3310341202,1357.0383300781 -67.243368756,10.3310151771,1361.8449707031 -67.24310874939999,10.3309837449,1368.5739746094 -67.2427771613,10.3309437633,1372.9001464844 -67.24253919909999,10.3309150133,1375.3032226563 -67.2424643487,10.3309536539,1376.7453613281 -67.24248857240001,10.3310124949,1378.1872558594 -67.2426956054,10.3315154091,1382.9936523438 -67.2428840306,10.331973061,1391.6457519531 -67.2429080866,10.332031399,1392.6071777344 -67.2429080866,10.332031399,1393.568359375 -67.2429442964,10.3321193252,1394.0490722656 -67.24306968969999,10.3324239235,1401.2587890625 -67.24317597229999,10.3326820023,1409.4301757813 -67.2431945801,10.3327274323,1412.7946777344 -67.24341896360001,10.3328348882,1416.6398925781 -67.24363245070001,10.3329372313,1419.5239257813 -67.24396605040001,10.333097158,1422.4079589844 -67.24423527720001,10.3332580067,1427.2145996094 -67.2442517895,10.3333160933,1429.6176757813 -67.24401612774503,10.3334785370155,1437.3083496094 -67.24391474050735,10.33363964727973,1438.2697753906 -67.24405102030433,10.33363925574237,1439.7116699219 -67.24428892558485,10.33358835300571,1441.6342773438 -67.24438523880656,10.33360045536092,1443.076171875 -67.24455917470355,10.33374482407494,1444.0375976563 -67.24460248840001,10.3339732345,1447.8828125 -67.24483307449999,10.3342011385,1450.2861328125 -67.2449453082,10.3344706167,1452.2087402344 -67.2449090146,10.3346179705,1450.7666015625 -67.2447751556,10.3348994348,1445.4794921875 -67.2447617445,10.3351818211,1442.595703125 -67.24467515950001,10.3354178555,1441.1535644531 -67.24467515950001,10.3358443268,1439.7116699219 -67.2447516862,10.3360900003,1438.7504882813 -67.24489644170001,10.3366157133,1438.7504882813 -67.245271448,10.3374767862,1441.1535644531 -67.2453832626,10.3377106413,1441.1535644531 -67.2455909662,10.3379672114,1441.6342773438 -67.245766148,10.3382832929,1442.595703125 -67.2458090633,10.3385224286,1444.0375976563 -67.2457465343,10.3389162105,1447.4020996094 -67.2457094863,10.3389595449,1447.4020996094 -67.2457857616,10.3391384985,1446.4409179688 -67.246034788,10.3392585274,1448.8439941406 -67.2461522184,10.339315189,1450.2861328125 -67.2466312442,10.3395461105,1457.49609375 -67.24674398080001,10.3396004252,1458.9379882813 -67.2471163888,10.3398465179,1464.7058105469 -67.2473419458,10.3399451729,1467.5895996094 -67.2474050615,10.3399728332,1468.0705566406 -67.2477319557,10.3399116453,1467.1091308594 -67.2479253262,10.3397533949,1466.1477050781 -67.2482606024,10.3397722542,1465.6672363281 -67.2484986484,10.3398239706,1465.6672363281 -67.2493456397,10.3402812872,1466.1477050781 -67.2494786463901,10.34035443834687,1467.1091308594 -67.24980086062691,10.34083939342834,1467.1091308594 -67.24990170665026,10.34088495530249,1472.396484375 -67.25007192242778,10.34100362973821,1477.68359375 -67.24942386702978,10.34117682275555,1479.1254882813 -67.24883013834503,10.3413425732932,1491.1420898438 -67.24810730410879,10.34155454758638,1518.5397949219 -67.24800633587725,10.34155690778679,1529.5947265625 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Consejo - La Quebrada</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-67.27569579689842,10.23829055603675,0 -67.27357044358902,10.2386059525945,0 -67.27149157858655,10.23842595256273,0 -67.26948017080716,10.23846891941868,0 -67.26801619866451,10.23870093845526,0 -67.26673391808761,10.23933159374944,0 -67.26588387075415,10.2397861898099,0 -67.26518337644775,10.24024250940764,0 -67.26490273598614,10.24103605629663,0 -67.26477677390001,10.24218818858204,0 -67.26279698605688,10.2441301877036,0 -67.26108872492182,10.24580441886497,0 -67.2611593880481,10.24826727023627,0 -67.26076322488839,10.24917605061191,0 -67.26027661349613,10.24976324325447,0 -67.26063501235625,10.25122457923069,0 -67.26086859551145,10.2530801933686,0 -67.26121248741282,10.25389520370639,0 -67.26172607020305,10.25546372351637,0 -67.26177442269541,10.25647208605248,0 -67.26143387466816,10.25783760110485,0 -67.26141881078787,10.25813442849165,0 -67.26195931598032,10.25875154002648,0 -67.26248030867639,10.25906308254329,0 -67.2628149855595,10.26016586623388,0 -67.2628515074381,10.2612723666786,0 -67.26230635050303,10.26232516196456,0 -67.26231614223204,10.26374396153298,0 -67.26222025568873,10.2639780871421,0 -67.26142965152366,10.26495276751663,0 -67.26131024683647,10.26532391363577,0 -67.26076536366779,10.26636382480859,0 -67.26049524880003,10.26674370803604,0 -67.26039018697111,10.26732744291648,0 -67.26047522422526,10.26783305500682,0 -67.26067676135936,10.26934375136014,0 -67.26070397616553,10.2698936374301,0 -67.26039657944891,10.27024973642492,0 -67.26021344226203,10.27072427229782,0 -67.26006521574175,10.27120623262925,0 -67.25980008338381,10.27174692866342,0 -67.25967225886573,10.27213124897772,0 -67.25973095513996,10.27255939161408,0 -67.2597266548874,10.27352277537881,0 -67.25935852683544,10.27380831384103,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Waypoints Rally</name>
+		<Placemark>
+			<name>Desvio El Consejo</name>
+			<LookAt>
+				<longitude>-67.2448520790478</longitude>
+				<latitude>10.23636238390076</latitude>
+				<altitude>0</altitude>
+				<heading>0.7681698698122317</heading>
+				<tilt>25.71885413905632</tilt>
+				<range>690.2679444818905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.24493316421626,10.235826569361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Picacho_Pto_alto</name>
+			<LookAt>
+				<longitude>-67.21707868283177</longitude>
+				<latitude>10.26730410093209</latitude>
+				<altitude>0</altitude>
+				<heading>0.02251098852234739</heading>
+				<tilt>40.41746650072143</tilt>
+				<range>311.507846822732</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_realestate</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.21652199832896,10.26728092066213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALIDA_PE</name>
+			<LookAt>
+				<longitude>-67.26098911005973</longitude>
+				<latitude>10.3419685253351</latitude>
+				<altitude>0</altitude>
+				<heading>3.476725104112838</heading>
+				<tilt>33.94087512929315</tilt>
+				<range>1515.130767243556</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id11</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26098911005973,10.3419685253351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R3_CR_DER_1</name>
+			<LookAt>
+				<longitude>-67.21228792370684</longitude>
+				<latitude>10.32112532429388</latitude>
+				<altitude>0</altitude>
+				<heading>24.30243164999035</heading>
+				<tilt>52.0662308790904</tilt>
+				<range>551.9046646373004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.21398427300382,10.32051193624301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R4_CR_DER_6</name>
+			<LookAt>
+				<longitude>-67.2422096372222</longitude>
+				<latitude>10.28031975237619</latitude>
+				<altitude>0</altitude>
+				<heading>8.175780665075532</heading>
+				<tilt>47.45422330158999</tilt>
+				<range>467.8805313734682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id112</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.24114204347369,10.28093678987933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R4_CR_DER_5</name>
+			<LookAt>
+				<longitude>-67.24096085999425</longitude>
+				<latitude>10.2848747572605</latitude>
+				<altitude>0</altitude>
+				<heading>8.176946733426563</heading>
+				<tilt>35.78290974839438</tilt>
+				<range>341.721281703498</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#stylemap_id111</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.2401961657085,10.28517735591083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R3_CR_DER_3</name>
+			<LookAt>
+				<longitude>-67.24911482534337</longitude>
+				<latitude>10.34096460510857</latitude>
+				<altitude>0</altitude>
+				<heading>24.29241952680313</heading>
+				<tilt>42.9408211946937</tilt>
+				<range>608.6847817248906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blue-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.24977896798103,10.3406714775729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOMBA_AGUA</name>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-67.2329906188,10.2834076434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RT_CR_IZQ</name>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-67.234280007,10.2834292687,627.8618164063</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R1_CR_IZQ_3</name>
+			<LookAt>
+				<longitude>-67.23007219526446</longitude>
+				<latitude>10.26870341632626</latitude>
+				<altitude>0</altitude>
+				<heading>12.82873708517823</heading>
+				<tilt>25.54632970780657</tilt>
+				<range>764.8065286974237</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.22867854096083,10.2669846857501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capilla</name>
+			<LookAt>
+				<longitude>-67.22432643023653</longitude>
+				<latitude>10.33055838322322</latitude>
+				<altitude>0</altitude>
+				<heading>24.29626448770928</heading>
+				<tilt>26.35703956510983</tilt>
+				<range>286.2344495689517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ranger_station1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.22453676917975,10.3305565260366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hacienda La Quebrada</name>
+			<LookAt>
+				<longitude>-67.25806937262614</longitude>
+				<latitude>10.27368372711107</latitude>
+				<altitude>0</altitude>
+				<heading>0.002089967957740299</heading>
+				<tilt>0</tilt>
+				<range>1241.680756686621</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.25921111111111,10.27355277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CP_2_CR_DER</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.24245434353438</longitude>
+				<latitude>10.333997486855</latitude>
+				<altitude>0</altitude>
+				<heading>4.475551096304486</heading>
+				<tilt>58.44972837747716</tilt>
+				<range>491.0034465142023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_police</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.2438847000295,10.33363075679089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC1</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.22576035627664</longitude>
+				<latitude>10.28678351985111</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001081729634684194</heading>
+				<tilt>31.72471536605649</tilt>
+				<range>390.6917561522633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.2256652087779,10.28741542210349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC3</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.21208306300682</longitude>
+				<latitude>10.32199702097021</latitude>
+				<altitude>0</altitude>
+				<heading>4.480691755920818</heading>
+				<tilt>60.00447958070554</tilt>
+				<range>392.1855869086259</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campground</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.2126485410232,10.32101265026378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC2</name>
+			<LookAt>
+				<longitude>-67.21155255326421</longitude>
+				<latitude>10.32321523984371</latitude>
+				<altitude>0</altitude>
+				<heading>22.08358802378989</heading>
+				<tilt>60.00514200279721</tilt>
+				<range>488.0760653618599</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campground0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.21191740846176,10.32249951891819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PC4</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.24780373757007</longitude>
+				<latitude>10.34166637685668</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005294091593427355</heading>
+				<tilt>0.03049462388041145</tilt>
+				<range>145.9800711011333</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_campground01</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.2478136443842,10.34169366388645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PE_Salida/Llegada</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.2635455989293</longitude>
+				<latitude>10.34085696941547</latitude>
+				<altitude>0</altitude>
+				<heading>7.226534901648829</heading>
+				<tilt>15.9952139424547</tilt>
+				<range>952.7834717234396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin400</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26287674906168,10.33961152933859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PE_CR_Izq</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.26678079081529</longitude>
+				<latitude>10.34805003778676</latitude>
+				<altitude>0</altitude>
+				<heading>7.226139055035527</heading>
+				<tilt>15.99887655695697</tilt>
+				<range>429.0463938898892</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin400</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26659645309239,10.34780625239051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PE_CR_IZQ</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.26739480526058</longitude>
+				<latitude>10.34572649180788</latitude>
+				<altitude>0</altitude>
+				<heading>23.05808154848556</heading>
+				<tilt>59.94045561782355</tilt>
+				<range>400.2210650512432</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin51</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26755495315997,10.34511386144063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PE_Falso</name>
+			<LookAt>
+				<gx:TimeStamp><when>2014-09-21T17:36:45Z</when>
+</gx:TimeStamp>
+				<longitude>-67.26398368540825</longitude>
+				<latitude>10.34121138879056</latitude>
+				<altitude>0</altitude>
+				<heading>23.05822514443555</heading>
+				<tilt>56.39077465115303</tilt>
+				<range>436.136953928353</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin51</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.26445349866899,10.34068030420658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAQ_CR_IZQ_4</name>
+			<LookAt>
+				<longitude>-67.20868368196629</longitude>
+				<latitude>10.27322139061171</latitude>
+				<altitude>0</altitude>
+				<heading>10.66278509962304</heading>
+				<tilt>55.76503257964389</tilt>
+				<range>364.2395267957839</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_blue-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-67.20852919953366,10.27277309409282,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
