@@ -1,0 +1,5 @@
+{
+  "name": "GPS Route Video Generator",
+  "description": "An application that takes a GPS track file (GPX or KML), visualizes the route on a map, and uses AI to generate an MP4 video of the journey.",
+  "requestFramePermissions": []
+}
