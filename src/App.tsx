@@ -1,11 +1,11 @@
 
 import React, { useState, useRef, useEffect } from 'react';
-import { RouteMap, RouteMapHandle } from './components/RouteMap';
-import { Coordinate, Theme } from './types';
-import { generateRouteVideo, fetchVideoBlob } from './services/geminiService';
+import { RouteMap, RouteMapHandle } from '../components/RouteMap';
+import { Coordinate, Theme } from '../types';
+import { generateRouteVideo, fetchVideoBlob } from '../services/geminiService';
 import { VEO_LOADING_MESSAGES } from '@/constants';
-import { UploadIcon, VideoIcon, DownloadIcon, ErrorIcon, LoadingSpinner } from './components/Icons';
-import { ThemeToggle } from './components/ThemeToggle';
+import { UploadIcon, VideoIcon, DownloadIcon, ErrorIcon, LoadingSpinner } from '../components/Icons';
+import { ThemeToggle } from '../components/ThemeToggle';
 
 const App: React.FC = () => {
   const [routeData, setRouteData] = useState<Coordinate[] | null>(null);
