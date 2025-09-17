@@ -84,10 +84,10 @@ const App: React.FC = () => {
   };
 
   const handleFileChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    resetState();
     const file = event.target.files?.[0];
     if (!file) return;
-
+    
+    resetState();
     setFileName(file.name);
     setError(null);
     const reader = new FileReader();
